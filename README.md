@@ -92,7 +92,9 @@ or
 
 **• 1.1 Now deploy.**
     <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmalvn/MALVIN-XD-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FMALVIN-XD) 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗥𝗔𝗜𝗟𝗪𝗔𝗬+🛰️)](https://git.io/typing-svg)
@@ -188,7 +190,7 @@ jobs:
 
 
 <p align="center">
-   <a href="https://youtu.be/kHdmFBowDRI?si=tmBQB_ehvng6Cpqp"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtu.be/B5Ab_X9Lht0?si=RwYO2cK_P42Hkwrc"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -243,7 +245,9 @@ _ᵗʰⁱˢ ⁱˢ ᵗʰᵉ ʳᵉˢᵘˡᵗ ᵒᶠ ᵐʸ  ʰᵃʳᵈ ʷᵒʳᵏ �
 ## Feedback
 If you have any feedback, please reach out to us at nexusxd.bot@gmail.com
 
-### <br> No LOVE 💕 NO STRESS ☺️
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=No+Love+No+Stress+for+Now🤪" alt="Typing SVG" /></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
